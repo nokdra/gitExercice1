@@ -1,0 +1,6 @@
+2) il crée un dossier .git qui contient plusieur dossier
+4) statut fichier non suivis
+5) statut nouveau fichier
+6) modifié ajouter devant le fichier
+8) me retourne la liste des validation
+9) git diff affiche les modification entre la version sauvegarder et la version locale
