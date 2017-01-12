@@ -4,3 +4,5 @@
 6) modifié ajouter devant le fichier
 8) me retourne la liste des validation
 9) git diff affiche les modification entre la version sauvegarder et la version locale
+11)on voit que la version du fichier a été ajouté
+
